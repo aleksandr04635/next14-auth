@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=1MTyCvS05V4
+https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide
+https://www.codewithantonio.com/projects/auth-masterclass
+Next Auth V5 - Advanced Guide (2024)
+Code With Antonio
+shadcn-ui
+next-auth => auth.js
+email sending with https://resend.com/

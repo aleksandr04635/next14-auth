@@ -1,0 +1,49 @@
+{
+  "colorize.languages": [
+    "css",
+    "typescript",
+    "javascript",
+    "javascriptreact",
+    "typescriptreact"
+  ],
+  "colorize.include": [
+    "globals.css",
+    "*.css",
+    "**/*.css",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    ".tsx",
+    ".jsx",
+    ".ts",
+    ".js"
+  ],
+  "colorize.colorized_colors": ["HSL", "HEXA", "RGB"],
+  //"color-highlight.languagesHighlightArgb": [],
+
+  // Language IDs to highlight named colors (red, green, blue, etc.).
+  "color-highlight.languagesHighlightNamedColors": [
+    "html",
+    "css",
+    "scss",
+    "sass",
+    "less",
+    "stylus"
+  ],
+  "colorize.colorized_variables": ["SASS"],
+
+  "editor.RainbowBrackets.enabled": true,
+  "editor.guides.bracketPairs": "active",
+
+  "RainbowBrackets.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    ["teal", "green", "blue", "brown"],
+    "Revioletd"
+  ]
+
+  // Language IDs to highlight rgb color without using the rgb() function.
+  //"color-highlight.languagesHighlightRgbWithNoFunction": ["*"]
+}
